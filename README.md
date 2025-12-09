@@ -9,7 +9,7 @@ L’objectif est de fournir un **support clair, structuré, et immédiatement ex
 
 ---
 
-## 🎯 **Objectifs du repository**
+## **Objectifs du repository**
 
 * Documenter de manière détaillée les librairies Python les plus utilisées.
 * Fournir des explications pédagogiques accessibles à tous niveaux.
@@ -22,7 +22,7 @@ L’objectif est de fournir un **support clair, structuré, et immédiatement ex
 
 ---
 
-## 📂 **Structure du dépôt**
+## **Structure du dépôt**
 
 ```
 📦 Bibliotheque_md
@@ -50,9 +50,9 @@ Tu me dis lesquels tu veux ajouter et je génère automatiquement le README + le
 
 ---
 
-## ▶️ **Comment utiliser ce repository ?**
+## **Comment utiliser ce repository ?**
 
-### 📥 1. Cloner le projet
+### 1. Cloner le projet
 
 ```bash
 git clone https://github.com/Lionel-JOURDHIER/Bibliotheque_md.git
@@ -61,7 +61,7 @@ cd notebooks-library
 
 ---
 
-## 🧑‍💻 Author / Contact
+## Author / Contact
 
 Projet maintenu par :
 
